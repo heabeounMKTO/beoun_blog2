@@ -12,54 +12,54 @@
     "jsxFragmentFactory": "Fragment",
     "paths": {
       "#imports": [
-        "/home/uwuntu/beoun_blog2/.nuxt/types/nitro-imports"
+        "/home/hbpopos/beoun_blog2/.nuxt/types/nitro-imports"
       ],
       "#paths": [
-        "/home/uwuntu/beoun_blog2/node_modules/nuxt/dist/core/runtime/nitro/paths"
+        "/home/hbpopos/beoun_blog2/node_modules/nuxt/dist/core/runtime/nitro/paths"
       ],
       "~": [
-        "/home/uwuntu/beoun_blog2"
+        "/home/hbpopos/beoun_blog2"
       ],
       "~/*": [
-        "/home/uwuntu/beoun_blog2/*"
+        "/home/hbpopos/beoun_blog2/*"
       ],
       "@": [
-        "/home/uwuntu/beoun_blog2"
+        "/home/hbpopos/beoun_blog2"
       ],
       "@/*": [
-        "/home/uwuntu/beoun_blog2/*"
+        "/home/hbpopos/beoun_blog2/*"
       ],
       "~~": [
-        "/home/uwuntu/beoun_blog2"
+        "/home/hbpopos/beoun_blog2"
       ],
       "~~/*": [
-        "/home/uwuntu/beoun_blog2/*"
+        "/home/hbpopos/beoun_blog2/*"
       ],
       "@@": [
-        "/home/uwuntu/beoun_blog2"
+        "/home/hbpopos/beoun_blog2"
       ],
       "@@/*": [
-        "/home/uwuntu/beoun_blog2/*"
+        "/home/hbpopos/beoun_blog2/*"
       ],
       "assets": [
-        "/home/uwuntu/beoun_blog2/assets"
+        "/home/hbpopos/beoun_blog2/assets"
       ],
       "public": [
-        "/home/uwuntu/beoun_blog2/public"
+        "/home/hbpopos/beoun_blog2/public"
       ],
       "public/*": [
-        "/home/uwuntu/beoun_blog2/public/*"
+        "/home/hbpopos/beoun_blog2/public/*"
       ],
       "#color-mode-options": [
-        "/home/uwuntu/beoun_blog2/.nuxt/color-mode-options"
+        "/home/hbpopos/beoun_blog2/.nuxt/color-mode-options"
       ],
       "#content/server": [
-        "/home/uwuntu/beoun_blog2/node_modules/@nuxt/content/dist/runtime/server/index"
+        "/home/hbpopos/beoun_blog2/node_modules/@nuxt/content/dist/runtime/server/index"
       ]
     }
   },
   "include": [
-    "/home/uwuntu/beoun_blog2/.nuxt/types/nitro-nuxt.d.ts",
+    "/home/hbpopos/beoun_blog2/.nuxt/types/nitro-nuxt.d.ts",
     "./types/nitro.d.ts",
     "../**/*",
     "../server/**/*"

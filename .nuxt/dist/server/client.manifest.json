@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "/home/uwuntu/beoun_blog2/node_modules/nuxt/dist/app/entry.js": {
+  "/home/hbpopos/beoun_blog2/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "/home/uwuntu/beoun_blog2/node_modules/nuxt/dist/app/entry.js"
+    "file": "/home/hbpopos/beoun_blog2/node_modules/nuxt/dist/app/entry.js"
   }
 }
