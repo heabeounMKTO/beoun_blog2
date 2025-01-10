@@ -12,54 +12,54 @@
     "jsxFragmentFactory": "Fragment",
     "paths": {
       "#imports": [
-        "/home/hbpopos/beoun_blog2/.nuxt/types/nitro-imports"
+        "/home/hbdesk/beoun_blog2/.nuxt/types/nitro-imports"
       ],
       "#paths": [
-        "/home/hbpopos/beoun_blog2/node_modules/nuxt/dist/core/runtime/nitro/paths"
+        "/home/hbdesk/beoun_blog2/node_modules/nuxt/dist/core/runtime/nitro/paths"
       ],
       "~": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "~/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "@": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "@/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "~~": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "~~/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "@@": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "@@/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "assets": [
-        "/home/hbpopos/beoun_blog2/assets"
+        "/home/hbdesk/beoun_blog2/assets"
       ],
       "public": [
-        "/home/hbpopos/beoun_blog2/public"
+        "/home/hbdesk/beoun_blog2/public"
       ],
       "public/*": [
-        "/home/hbpopos/beoun_blog2/public/*"
+        "/home/hbdesk/beoun_blog2/public/*"
       ],
       "#color-mode-options": [
-        "/home/hbpopos/beoun_blog2/.nuxt/color-mode-options"
+        "/home/hbdesk/beoun_blog2/.nuxt/color-mode-options"
       ],
       "#content/server": [
-        "/home/hbpopos/beoun_blog2/node_modules/@nuxt/content/dist/runtime/server/index"
+        "/home/hbdesk/beoun_blog2/node_modules/@nuxt/content/dist/runtime/server/index"
       ]
     }
   },
   "include": [
-    "/home/hbpopos/beoun_blog2/.nuxt/types/nitro-nuxt.d.ts",
+    "/home/hbdesk/beoun_blog2/.nuxt/types/nitro-nuxt.d.ts",
     "./types/nitro.d.ts",
     "../**/*",
     "../server/**/*"

@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
-    "baseUrl": "/home/hbpopos/beoun_blog2",
+    "baseUrl": "/home/hbdesk/beoun_blog2",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
@@ -18,76 +18,76 @@
     ],
     "paths": {
       "~": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "~/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "@": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "@/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "~~": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "~~/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "@@": [
-        "/home/hbpopos/beoun_blog2"
+        "/home/hbdesk/beoun_blog2"
       ],
       "@@/*": [
-        "/home/hbpopos/beoun_blog2/*"
+        "/home/hbdesk/beoun_blog2/*"
       ],
       "assets": [
-        "/home/hbpopos/beoun_blog2/assets"
+        "/home/hbdesk/beoun_blog2/assets"
       ],
       "public": [
-        "/home/hbpopos/beoun_blog2/public"
+        "/home/hbdesk/beoun_blog2/public"
       ],
       "public/*": [
-        "/home/hbpopos/beoun_blog2/public/*"
+        "/home/hbdesk/beoun_blog2/public/*"
       ],
       "#app": [
-        "/home/hbpopos/beoun_blog2/node_modules/nuxt/dist/app"
+        "/home/hbdesk/beoun_blog2/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "/home/hbpopos/beoun_blog2/node_modules/nuxt/dist/app/*"
+        "/home/hbdesk/beoun_blog2/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "/home/hbpopos/beoun_blog2/node_modules/nuxt/dist/app/compat/vue-demi"
+        "/home/hbdesk/beoun_blog2/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#color-mode-options": [
-        "/home/hbpopos/beoun_blog2/.nuxt/color-mode-options"
+        "/home/hbdesk/beoun_blog2/.nuxt/color-mode-options"
       ],
       "#vue-router": [
-        "/home/hbpopos/beoun_blog2/.nuxt/vue-router"
+        "/home/hbdesk/beoun_blog2/.nuxt/vue-router"
       ],
       "#imports": [
-        "/home/hbpopos/beoun_blog2/.nuxt/imports"
+        "/home/hbdesk/beoun_blog2/.nuxt/imports"
       ],
       "#build": [
-        "/home/hbpopos/beoun_blog2/.nuxt"
+        "/home/hbdesk/beoun_blog2/.nuxt"
       ],
       "#build/*": [
-        "/home/hbpopos/beoun_blog2/.nuxt/*"
+        "/home/hbdesk/beoun_blog2/.nuxt/*"
       ],
       "@nuxt-themes/tokens/config": [
-        "/home/hbpopos/beoun_blog2/node_modules/@nuxt-themes/tokens/dist/tokens.config.ts"
+        "/home/hbdesk/beoun_blog2/node_modules/@nuxt-themes/tokens/dist/tokens.config.ts"
       ],
       "#pinceau/utils": [
-        "/home/hbpopos/beoun_blog2/.nuxt/pinceau/utils.ts"
+        "/home/hbdesk/beoun_blog2/.nuxt/pinceau/utils.ts"
       ],
       "#pinceau/theme": [
-        "/home/hbpopos/beoun_blog2/.nuxt/pinceau/index.ts"
+        "/home/hbdesk/beoun_blog2/.nuxt/pinceau/index.ts"
       ],
       "#pinceau/definitions": [
-        "/home/hbpopos/beoun_blog2/.nuxt/pinceau/definitions.ts"
+        "/home/hbdesk/beoun_blog2/.nuxt/pinceau/definitions.ts"
       ],
       "#components": [
-        "/home/hbpopos/beoun_blog2/.nuxt/components"
+        "/home/hbdesk/beoun_blog2/.nuxt/components"
       ]
     }
   },
@@ -98,14 +98,14 @@
     "../node_modules/@nuxt-themes/alpine/**/*",
     "../node_modules/@nuxt-themes/typography/**/*",
     "../node_modules/@nuxt-themes/elements/**/*",
-    "/home/hbpopos/beoun_blog2",
-    "/home/hbpopos/beoun_blog2/*",
-    "/home/hbpopos/beoun_blog2",
-    "/home/hbpopos/beoun_blog2/*",
-    "/home/hbpopos/beoun_blog2",
-    "/home/hbpopos/beoun_blog2/*",
-    "/home/hbpopos/beoun_blog2",
-    "/home/hbpopos/beoun_blog2/*"
+    "/home/hbdesk/beoun_blog2",
+    "/home/hbdesk/beoun_blog2/*",
+    "/home/hbdesk/beoun_blog2",
+    "/home/hbdesk/beoun_blog2/*",
+    "/home/hbdesk/beoun_blog2",
+    "/home/hbdesk/beoun_blog2/*",
+    "/home/hbdesk/beoun_blog2",
+    "/home/hbdesk/beoun_blog2/*"
   ],
   "exclude": [
     "../dist",

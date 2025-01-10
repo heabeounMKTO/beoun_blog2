@@ -1,10 +1,10 @@
 
 import type { CustomAppConfig } from 'nuxt/schema'
 import type { Defu } from 'defu'
-import cfg0 from "/home/hbpopos/beoun_blog2/app.config"
-import cfg1 from "/home/hbpopos/beoun_blog2/node_modules/@nuxt-themes/alpine/app.config"
-import cfg2 from "/home/hbpopos/beoun_blog2/node_modules/@nuxt-themes/typography/app.config"
-import cfg3 from "/home/hbpopos/beoun_blog2/node_modules/@nuxt-themes/elements/app.config"
+import cfg0 from "/home/hbdesk/beoun_blog2/app.config"
+import cfg1 from "/home/hbdesk/beoun_blog2/node_modules/@nuxt-themes/alpine/app.config"
+import cfg2 from "/home/hbdesk/beoun_blog2/node_modules/@nuxt-themes/typography/app.config"
+import cfg3 from "/home/hbdesk/beoun_blog2/node_modules/@nuxt-themes/elements/app.config"
 
 declare const inlineConfig = {}
 type ResolvedAppConfig = Defu<typeof inlineConfig, [typeof cfg0, typeof cfg1, typeof cfg2, typeof cfg3]>
